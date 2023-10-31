@@ -1,0 +1,5 @@
+Hola me llamo Alvaro soy un estudiante de la utn, tengo 25 años.
+-Hola Alvaro como estas ? 
+-Bien y vos ? 
+-Bien, vos como te llamas ? 
+-Alvaro tambien !
